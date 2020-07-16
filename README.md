@@ -1,3 +1,5 @@
+This code is associated with the paper from Barnett et al., "The growth of acronyms in the scientific literature". eLife, 2020. http://doi.org/10.7554/eLife.60080
+
 # Analysing acronyms in _PubMed_ data
 
 R code to read and analyse data to examine the use of acronyms in published papers over time. The analysis examines titles and abstracts published on [_PubMed_](https://pubmed.ncbi.nlm.nih.gov/) up until 2019. Our definition of acronym includes initialisms and abbreviations.
